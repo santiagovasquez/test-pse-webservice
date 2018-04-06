@@ -1,6 +1,8 @@
 
+# Santiago vasquez olarte 
 Demo :
 https://snippetdeveloper.com/demo/test-pse
+
 
 
 # test-pse-webservice
@@ -21,8 +23,11 @@ configurar conexion la bd para que cakephp2 corra normal
 	);
 	puede apuntar a cualquiera  BD, solo es para que el framework ejecute normalmente.
 	
-# Santiago vasquez olarte 
 	
 Requerimientos
 Puedes elegir Memcached o APCu para almacenar los datos en caché.
 #el proyecto utiliza APCU (asegurese de tener con apcu.dll bien instalado)
+
+
+Contact
+santivasquez6@hotmail.com
